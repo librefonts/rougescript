@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="one" r="seven" v="50"/>
+      <pair l="r" r="u" v="15"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
